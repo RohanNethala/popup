@@ -1,0 +1,44 @@
+/* src/Popup.css */
+
+/* The styling for the text fields */
+.p-dialog .p-dialog-header {
+    background-color: rgb(79, 0, 128);
+    color: white;
+}
+
+.p-dialog .p-dialog-content {
+    background-color: black;
+    color: white;
+}
+
+.p-dialog .p-dialog-footer {
+    background-color: rgb(79, 0, 128);
+}
+
+.form-group {
+    margin-bottom: 20px;
+    margin-top:10px;
+}
+
+.p-float-label label {
+    color: white;
+}
+
+.p-inputtext {
+    background-color: black;
+    color: white;
+    border: 1px solid rgb(79, 0, 128);
+}
+
+/* The styling for the buttons */
+
+.p-button-primary{
+    margin-top: 30px;
+    background-color: purple;
+    border-color: rgb(79, 0, 128);
+}
+
+.p-button-secondary{
+    border-color: rgb(79, 0, 128);
+
+}
